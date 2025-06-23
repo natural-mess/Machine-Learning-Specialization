@@ -7,3 +7,15 @@ This Specialization is taught by Andrew Ng, an AI visionary who has led critical
 It provides a broad introduction to modern machine learning, including supervised learning (multiple linear regression, logistic regression, neural networks, and decision trees), unsupervised learning (clustering, dimensionality reduction, recommender systems), and some of the best practices used in Silicon Valley for artificial intelligence and machine learning innovation (evaluating and tuning models, taking a data-centric approach to improving performance, and more.)
 
 By the end of this Specialization, you will have mastered key concepts and gained the practical know-how to quickly and powerfully apply machine learning to challenging real-world problems. If you’re looking to break into AI or build a career in machine learning, the new Machine Learning Specialization is the best place to start.
+
+## [Course 1 - Supervised Machine Learning: Regression and Classification](./Course1/)
+### [Week 1: Introduction to Machine Learning](./Course1/Week1/)
+Learning Objectives:
+- Define machine learning
+- Define supervised learning
+- Define unsupervised learning
+- Write and run Python code in Jupyter Notebooks
+- Define a regression model
+- Implement and visualize a cost function
+- Implement gradient descent
+- Optimize a regression model using gradient descent
