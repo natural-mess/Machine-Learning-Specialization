@@ -20,8 +20,14 @@ Learning Objectives:
 - Implement gradient descent
 - Optimize a regression model using gradient descent
 
-### [Week 2: Regression with multiple input variables](./Course1/Week2/)
+### [Week 2: Classification](./Course1/Week2/)
 Learning Objectives
 - Use vectorization to implement multiple linear regression
 - Use feature scaling, feature engineering, and polynomial regression to improve model training
 - Implement linear regression in code
+
+### [Week 3: Regression with multiple input variables](./Course1/Week3/)
+Learning Objectives
+- Use logistic regression for binary classification
+- Implement logistic regression for binary classification
+- Address overfitting using regularization, to improve model performance
