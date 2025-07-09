@@ -47,7 +47,7 @@ Learning Objectives
 - Build a neural network in regular Python code (from scratch) to make predictions.
 - (Optional): Learn how neural networks use parallel processing (vectorization) to make computations faster.
 
-### [Week 1: Neural network training](./Course2/Week2/)
+### [Week 2: Neural network training](./Course2/Week2/)
 This week, you'll learn how to train your model in TensorFlow, and also learn about other important activation functions (besides the sigmoid function), and where to use each type in a neural network. You'll also learn how to go beyond binary classification to multiclass classification (3 or more categories). Multiclass classification will introduce you to a new activation function and a new loss function. Optionally, you can also learn about the difference between multiclass classification and multi-label classification. You'll learn about the Adam optimizer, and why it's an improvement upon regular gradient descent for neural network training. Finally, you will get a brief introduction to other layer types besides the one you've seen thus far.
 
 Learning Objectives
@@ -60,3 +60,20 @@ Learning Objectives
 - Use the categorical cross entropy loss function for multiclass classification
 - Use the recommended method for implementing multiclass classification in code
 - (Optional): Explain the difference between multi-label and multiclass classification
+
+### [Week 3: Advice for applying machine learning](./Course2/Week3/)
+This week you'll learn best practices for training and evaluating your learning algorithms to improve performance. This will cover a wide range of useful advice about the machine learning lifecycle, tuning your model, and also improving your training data.
+
+Learning Objectives
+- Evaluate and then modify your learning algorithm or data to improve your model's performance
+- Evaluate your learning algorithm using cross validation and test datasets.
+- Diagnose bias and variance in your learning algorithm
+- Use regularization to adjust bias and variance in your learning algorithm
+- Identify a baseline level of performance for your learning algorithm
+- Understand how bias and variance apply to neural networks
+- Learn about the iterative loop of Machine Learning Development that's used to update and improve a machine learning model
+- Learn to use error analysis to identify the types of errors that a learning algorithm is making
+- Learn how to add more training data to improve your model, including data augmentation and data synthesis
+- Use transfer learning to improve your model's performance.
+- Learn to include fairness and ethics in your machine learning model development
+- Measure precision and recall to work with skewed (imbalanced) datasets
