@@ -87,3 +87,23 @@ Learning Objectives
 - Learn the "impurity" metric "entropy" and how it's used when building a decision tree
 - Learn how to use multiple trees, "tree ensembles" such as random forests and boosted trees
 - Learn when to use decision trees or neural networks
+
+## [Course 3 - Unsupervised Learning, Recommenders, Reinforcement Learning](./Course3/)
+### [Week 1: Unsupervised learning](./Course3/Week1/)
+This week, you will learn two key unsupervised learning algorithms: clustering and anomaly detection
+
+Learning Objectives
+- Implement the k-means clustering algorithm
+- Implement the k-means optimization objective
+- Initialize the k-means algorithm
+- Choose the number of clusters for the k-means algorithm
+- Implement an anomaly detection system
+- Decide when to use supervised learning vs. anomaly detection
+- Implement the centroid update function in k-means
+- Implement the function that finds the closest centroids to each point in k-means
+
+### [Week 2: Recommenders systems](./Course3/Week2/)
+Learning Objectives
+- Implement collaborative filtering recommender systems in TensorFlow
+- Implement deep learning content based filtering using a neural network in TensorFlow
+- Understand ethical considerations in building recommender systems
